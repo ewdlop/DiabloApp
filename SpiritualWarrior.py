@@ -1,4 +1,4 @@
-```Diablo
+```python
 import random
 from typing import List, Dict
 import time
